@@ -1,0 +1,18 @@
+{
+  "name": "md-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Milan Sijan | Ada & The Machine LLC",
+  "license": "ISC",
+  "dependencies": {
+    "as-table": "^1.0.55",
+    "ccxt": "^1.18.1300",
+    "ololog": "^1.1.149",
+    "redis": "^2.8.0"
+  }
+}
