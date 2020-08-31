@@ -1,6 +1,6 @@
 # order-book
 
-Test project - indgest orderBook from Coinbase
+Test project - ingest orderBook from Coinbase
 
 ## Install redis:
 
